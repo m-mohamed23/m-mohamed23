@@ -20,7 +20,5 @@
 [<img align="left" alt="Ruby" width="26px" src="./icons/ruby.png" />](https://www.ruby-lang.org/en/)
 [<img align="left" alt="Rails" height="26px" src="./icons/rails.png" />](https://rubyonrails.org/)
 [<img align="left" alt="PostgreSQL" width="26px" src="./icons/postgresql.png" />](https://www.postgresql.org/)
-[<img align="left" alt="Git" width="26px" src="./icons/git-icon.png" />](https://git-scm.com/)
-[<img align="left" alt="GitHub" width="26px" src="./icons/Octocat.png" />](https://github.com/)
 [<img align="left" alt="Terminal" width="26px" src="./icons/terminal.png" />](https://iterm2.com/)
 
