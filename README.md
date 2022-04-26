@@ -3,7 +3,7 @@
 
 
 - :man: My name is Mohamed or Moe for short.
-- 🔭 I’m currently working on completing a web development bootcamp
+- 🔭 I have completed the Lighthouse Labs Web Development Bootcamp.
 - 🌱 I’m currently learning JavaScript, ReactJS, NodeJS, Express, Ruby, Ruby-on-Rails.
 - 📫 How to reach me: justmoe23@gmail.com
 - 😄 Pronouns: He/HIM
