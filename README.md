@@ -2,8 +2,9 @@
 
 
 
-- :man: My name is Mohamed or Moe for short.
-- 🔭 I have completed the Lighthouse Labs Web Development Bootcamp.
+- :man: My name is Mohamed.
+- 🔭 Coming from a science background, I have completed the Lighthouse Labs Web Development Bootcamp.
+- 👨🏾‍💻 I'm currently looking for employment as a fullstack developer.
 - 🌱 I’m currently learning JavaScript, ReactJS, NodeJS, Express, Ruby, Ruby-on-Rails.
 - 📫 How to reach me: justmoe23@gmail.com
 - 😄 Pronouns: He/HIM
