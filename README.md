@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+“Success or greatness come with a roller-coaster ride… anybody can apply the marathon concept to what they do.” – Nipsey Hussle
+
 
 
 - :man: My name is Mohamed.
