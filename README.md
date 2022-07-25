@@ -5,9 +5,9 @@
 
 
 - :man: My name is Mohamed.
-- 🔭 Coming from a science background, I have completed the Lighthouse Labs Web Development Bootcamp.
+- 🔭 I have completed the Lighthouse Labs Web Development Bootcamp.
 - 🔭 I'm currently completing the Harvard CS50 Course.
-- 👨🏾‍💻 I'm currently looking for employment as a fullstack developer.
+- 👨🏾‍💻 I'm currently looking for employment as a fullstack web developer.
 - 🌱 I’m currently learning JavaScript, ReactJS, NodeJS, Express, Ruby, Ruby-on-Rails.
 - 📫 How to reach me: https://codewithmoe.netlify.app/
 - 😄 Pronouns: He/HIM
