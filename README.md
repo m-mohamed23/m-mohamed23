@@ -9,7 +9,7 @@
 - 🔭 I'm currently completing the Harvard CS50 Course.
 - 👨🏾‍💻 I'm currently looking for employment as a fullstack web developer.
 - 🌱 I’m currently learning JavaScript, ReactJS, NodeJS, Express, Ruby, Ruby-on-Rails.
-- 📫 How to reach me: https://codewithmoe.netlify.app/
+- 📫 How to reach me: https://codewithmoe.netlify.app/ or email: justmoe23@gmail.com
 - 😄 Pronouns: He/HIM
 - ⚡ Fun fact: I love anime and music ❤️
 
