@@ -12,7 +12,7 @@
 
 ---
 
-### Hi there 👋
+### About Me 👋
 
 
 - :man: My name is Mohamed.
@@ -24,7 +24,9 @@
 - 😄 Pronouns: He/HIM
 - ⚡ Fun fact: I love anime and music ❤️
 
-## Languages and Libraries
+---
+
+### Languages and Libraries
 [<img align="left" alt="Visual Studio Code" width="26px" src="./icons/vscode.png" />](https://visualstudio.microsoft.com/)
 [<img align="left" alt="HTML5" width="26px" src="./icons/html5.png" />](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [<img align="left" alt="CSS3" width="26px" src="./icons/css3.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
