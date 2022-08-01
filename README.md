@@ -1,51 +1,34 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/mohamed-mohamed96/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=mozeezy&style=flat-square&color=blue" alt=""/>
-</div>
+<h1 align="center">Hi 👋, I'm Mohamed Mohamed</h1>
+<h3 align="center">A Full-stack Web Developer</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mozeezy&label=Profile%20views&color=0e75b6&style=flat" alt="mozeezy" /> </p>
 
-### About Me 👋
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mozeezy" alt="mozeezy" /></a> </p>
 
+- 🔭 I’m currently working on **completing Harvard's CS50**
 
-- :man: My name is Mohamed.
-- 🔭 I have completed the Lighthouse Labs Web Development Bootcamp.
-- 🔭 I'm currently completing the Harvard CS50 Course.
-- 👨🏾‍💻 I'm currently looking for employment as a fullstack web developer.
-- 🌱 I’m currently learning JavaScript, ReactJS, NodeJS, Express, Ruby, Ruby-on-Rails.
-- 📫 How to reach me: https://codewithmoe.netlify.app/ or email: justmoe23@gmail.com
-- 😄 Pronouns: He/HIM
-- ⚡ Fun fact: I love anime and music ❤️
+- 🌱 I’m currently learning **C**
 
----
+- 👨‍💻 All of my projects are available at [codewithmoe.netlify.app](codewithmoe.netlify.app)
 
-### Languages and Libraries
-[<img align="center" alt="Visual Studio Code" width="26px" src="./icons/vscode.png" />](https://visualstudio.microsoft.com/)
-[<img align="center" alt="HTML5" width="26px" src="./icons/html5.png" />](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-[<img align="center" alt="CSS3" width="26px" src="./icons/css3.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img align="center" alt="Sass" width="26px" src="./icons/sass.png" />](https://sass-lang.com/)
-[<img align="center" alt="JavaScript" width="26px" src="./icons/javascript.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img align="center" alt="React" width="26px" src="./icons/react.png" />](https://reactjs.org/)
-[<img align="center" alt="Node.js" width="26px" src="./icons/nodejs.png" />](https://nodejs.org/en/)
-[<img align="center" alt="Ruby" width="26px" src="./icons/ruby.png" />](https://www.ruby-lang.org/en/)
-[<img align="center" alt="Rails" height="26px" src="./icons/rails.png" />](https://rubyonrails.org/)
-[<img align="center" alt="PostgreSQL" width="26px" src="./icons/postgresql.png" />](https://www.postgresql.org/)
-[<img align="center" alt="Terminal" width="26px" src="./icons/terminal.png" />](https://iterm2.com/)
+- 📫 How to reach me **justmoe23@gmail.com**
 
+- ⚡ Fun fact **I love anime and listening to music**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mohamed-mohamed96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-mohamed96" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-### My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mozeezy&theme=dark&background=000000)](https://git.io/streak-stats)\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mozeezy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mozeezy&show_icons=true&locale=en&layout=compact" alt="mozeezy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mozeezy&show_icons=true&locale=en" alt="mozeezy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mozeezy&" alt="mozeezy" /></p>
+
 
 
 
