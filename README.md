@@ -39,3 +39,9 @@
 [<img align="left" alt="PostgreSQL" width="26px" src="./icons/postgresql.png" />](https://www.postgresql.org/)
 [<img align="left" alt="Terminal" width="26px" src="./icons/terminal.png" />](https://iterm2.com/)
 
+---
+
+### My Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mozeezy&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
