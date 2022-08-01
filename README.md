@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mohamed</h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="600" height="400"/>
 </div>
 <h3 align="center">A Full-stack Web Developer</h3>
 
