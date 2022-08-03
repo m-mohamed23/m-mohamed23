@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **C**
 
-- 👨‍💻 All of my projects are available at [codewithmoe.netlify.app](codewithmoe.netlify.app)
+- 👨‍💻 All of my projects are available [here](https://www.codewithmoe.netlify.app)
 
 - 📫 How to reach me **justmoe23@gmail.com**
 
