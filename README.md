@@ -3,6 +3,9 @@
   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="600" height="400"/>
 </div>
 <h3 align="center">A Full-stack Web Developer</h3>
+<p align="center">
+<i>'Victory Lap,' even the title. It's the accumulation of trial and error; that's what I represent; trial and error. </i> - Nipsey Hussle
+</p>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mozeezy&label=Profile%20views&color=0e75b6&style=flat" alt="mozeezy" /> </p>
