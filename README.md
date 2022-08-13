@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **C**
 
-- 👨‍💻 All of my projects are available [here](https://codewithmoe.netlify.app/)
+- 👨‍💻 All of my projects are available [here](https://codewithmoe.netlify.app/#projects)
 
 - 📫 How to reach me **justmoe23@gmail.com**
 
