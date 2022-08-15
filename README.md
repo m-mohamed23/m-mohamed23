@@ -32,5 +32,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mozeezy&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="mozeezy" /></p>
 <br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mozeezy&show_icons=true&locale=en&theme=synthwave" alt="mozeezy" /></p>
-<br />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mozeezy&theme=synthwave" alt="mozeezy" /></p>
