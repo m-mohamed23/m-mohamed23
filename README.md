@@ -15,6 +15,8 @@
 
 - 🌱 I’m currently learning **C**
 
+- 🏁 I hope to learn more about C++, Java, and Object-Oriented Programming (OOP).
+
 - 👨‍💻 All of my projects are available [here](https://codewithmoe.netlify.app/#projects)
 
 - 📫 How to reach me **justmoe23@gmail.com**
