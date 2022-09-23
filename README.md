@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **completing Harvard's CS50 Course.**
 
-- 🌱 I’m currently learning **C.**
+- 🌱 I’m currently learning **C**
 
 - 🏁 I hope to learn more about C++, Java, and Object-Oriented Programming (OOP).
 
