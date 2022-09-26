@@ -11,11 +11,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mozeezy&label=Profile%20views&color=0e75b6&style=flat" alt="mozeezy" /> </p>
 
 
-- 🔭 I’m currently working on **completing Harvard's CS50 Course.**
 
-- 🌱 I’m currently learning **C**
-
-- 🏁 I hope to learn more about C++, Java, and Object-Oriented Programming (OOP).
+- 🌱 I’m currently learning **Python and Java**
 
 - 👨‍💻 All of my projects are available [here](https://codewithmoe.netlify.app/#projects)
 
