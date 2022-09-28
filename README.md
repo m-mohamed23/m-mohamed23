@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="600" height="400"/>
 </div>
-<h3 align="center">A Full-Stack Web Developer</h3>
+<h3 align="center">A Full-Stack Software Developer</h3>
 <p align="center">
 <i>'Victory Lap,' even the title. It's the accumulation of trial and error; that's what I represent; trial and error. </i> - Nipsey Hussle
 </p>
