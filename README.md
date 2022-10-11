@@ -18,7 +18,6 @@
 
 - 📫 How to reach me **justmoe23@gmail.com**
 
-- ⚡ Fun fact **I love anime and listening to music!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
