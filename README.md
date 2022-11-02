@@ -4,7 +4,7 @@
 </div>
 <h3 align="center">A Software Developer</h3>
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=churchill)
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mozeezy&label=Profile%20views&color=0e75b6&style=flat" alt="mozeezy" /> </p>
