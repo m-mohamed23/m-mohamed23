@@ -12,7 +12,7 @@
 
 
 
-- 🌱 I’m currently learning **Python and planning to learn Java next to learn Object-oriented Programming (OOP).**
+- 🌱 I’m currently learning **Python and planning to learn Java and AWS.**
 
 - 👨‍💻 All of my projects are available [here](https://codewithmoe.netlify.app/#projects)
 
