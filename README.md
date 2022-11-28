@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://codewithmoe.netlify.app/#projects)
 
-- 📫 How to reach me **justmoe23@gmail.com**
+- 📫 How to reach me **[email](mailto:justmoe23@gmail.com)**
 
 
 <h3 align="left">Connect with me:</h3>
