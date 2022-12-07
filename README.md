@@ -14,7 +14,7 @@
 
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python as a part of the #100DaysOfCode challenge**
 
 - 👨‍💻 All of my projects are available [here](https://codewithmoe.netlify.app/#projects)
 
