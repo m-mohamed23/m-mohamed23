@@ -14,7 +14,7 @@
 
 
 
-- 🌱 I’m currently learning **Python and planning to learn Java and AWS.**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available [here](https://codewithmoe.netlify.app/#projects)
 
