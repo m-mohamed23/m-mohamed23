@@ -5,7 +5,6 @@
 <h3 align="center">A Software Developer</h3>
 
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=socrates)
 
 
 
