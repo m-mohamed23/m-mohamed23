@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed</h1>
+<h1 align="center">Hi, I'm Mohamed</h1>
 <div align="center">
   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="600" height="400"/>
 </div>
