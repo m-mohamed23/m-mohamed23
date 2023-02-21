@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨🏾‍💻 I’m looking for my first role in tech as a software engineer
-
 - 📝 I regularly write articles on [https://medium.com/@codewithmoe23](https://medium.com/@codewithmoe23)
 
 - 👨‍💻 All of my projects are available at [codewithmoe.netlify.app](codewithmoe.netlify.app)
