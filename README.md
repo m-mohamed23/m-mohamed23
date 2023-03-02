@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📝 I regularly write articles on [https://medium.com/@codewithmoe23](https://medium.com/@codewithmoe23)
+- 📝 I write articles on [https://medium.com/@codewithmoe23](https://medium.com/@codewithmoe23)
 
 - 👨‍💻 All of my projects are available at [codewithmoe.netlify.app](codewithmoe.netlify.app)
 
