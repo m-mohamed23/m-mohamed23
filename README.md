@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/codewithmoe" target="blank"><img src="https://img.shields.io/twitter/follow/codewithmoe?logo=twitter&style=for-the-badge" alt="codewithmoe" /></a> </p>
 
-- 🔭 I’m currently working on **completing the #100DaysofCode**
+<!-- - 🔭 I’m currently working on **completing the #100DaysofCode** -->
 
 - 🌱 I’m currently learning **Python**
 
