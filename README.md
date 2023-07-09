@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I’m currently working on **completing the #100DaysofCode** -->
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Amazon Web Services (AWS)**
 
 - 📝 I write articles on [https://medium.com/@codewithmoe23](https://medium.com/@codewithmoe23)
 
