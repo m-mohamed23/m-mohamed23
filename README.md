@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 <p align="center"> <img src="https://res.cloudinary.com/dskmteyhy/image/upload/v1674539051/personal%20readme/Mohamed_Mohamed_bnbj7b.png" alt="mozeezy" /> </p>
-<h3 align="center">A Software Engineer</h3>
+<h3 align="center">Software Engineer and AWS Certified Cloud Practitioner</h3>
 
 
 <p align="left"> <a href="https://twitter.com/codewithmoe" target="blank"><img src="https://img.shields.io/twitter/follow/codewithmoe?logo=twitter&style=for-the-badge" alt="codewithmoe" /></a> </p>
 
 <!-- - 🔭 I’m currently working on **completing the #100DaysofCode** -->
 
-- 🌱 I’m currently learning **Amazon Web Services (AWS)**
+- 🌱 I’m currently learning **Amazon Web Services (AWS) and TypeScript**
 
 - 📝 I write articles on [https://medium.com/@codewithmoe23](https://medium.com/@codewithmoe23)
 
