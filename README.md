@@ -11,7 +11,7 @@
 
 - 📝 I write articles on [https://medium.com/@codewithmoe23](https://medium.com/@codewithmoe23)
 
-- 👨‍💻 All of my projects are available at [https://mozeezy.github.io/retro_portfolio/](https://mozeezy.github.io/retro_portfolio/)
+- 👨‍💻 All of my projects are available at [https://mozeezy.github.io/retro_portfolio/](https://m-mohamed23.github.io/retro_portfolio/)
 
 - 📫 How to reach me **justmoe23@gmail.com**
 
